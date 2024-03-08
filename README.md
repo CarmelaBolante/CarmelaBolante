@@ -12,6 +12,7 @@ I am a Computer Engineer fuelled by curiosity and unwavering drive to learn. Act
 - 🚀 **Explore My GitHub Profile**: [Discover My Projects](https://github.com/CarmelaBolante)
 <br> <br>
 <br> <br>
+<br> <br>
 
 ## Language and Tools
 
